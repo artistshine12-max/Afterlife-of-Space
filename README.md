@@ -87,7 +87,7 @@ To ensure absolute scientific validity and legal compliance, all telemetry, cata
 Because **AFTERLIFE OF SPACE** is built as a self-contained frontend application with zero external build dependencies, running it takes seconds:
 
 
-   * Visit `https://afterlife-of-space-the-mission-ended-the.onrender.com/#explorer` in your browser.
+   * Visit https://afterlife-of-space-the-mission-ended-the.onrender.com/#explorer in your browser.
 
 ---
 
