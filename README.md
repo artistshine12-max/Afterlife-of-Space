@@ -14,7 +14,8 @@ Instead of presenting raw spreadsheets or dry dashboards, this platform transfor
 ---
 
 ## 🎯 The Problem & Our Solution
-
+“Abandoned but not forgotten: Storytelling about NASA’s discarded equipments on the Moon and the Mars.”
+Since 1960s, NASA has left hardware across the solar system-on the Moon, on Mars and in deep space. From rovers and instruments that completed their science missions to probes still traveling away from Earth this hardware varies widely in both its purpose and current level of functionality. Your challenge is to tell the story of some or all of its equipment that introduces school-age space enthusiasts to hardware and the science it made possible.
 Millions of students know about historic Apollo Moon landings and Mars rovers, yet few know **what happened afterward**, **why hardware was left behind**, **what lasting discoveries were made**, or **how those dormant relics shape today's Artemis and Mars missions**.
 
 **Our Approach:**
@@ -74,29 +75,19 @@ To ensure absolute scientific validity and legal compliance, all telemetry, cata
 
 ## 🛠️ Tech Stack & Architecture
 
-* **Architecture:** Zero-backend, single-file responsive web application (`index.html`) designed for instant deployment, speed, and offline classroom resilience.
-* **Styling & UI:** Tailwind CSS with custom glassmorphism, obsidian telemetry HUD, and responsive grid layouts.
+* **Architecture:** Single-file responsive web application (`index.html`) with inline scripting logic using JavaScript designed for instant deployment, speed, and offline classroom resilience.
+* **Styling & UI:** Tailwind CSS and BootStrap with custom glassmorphism, obsidian telemetry HUD, and responsive grid layouts.
 * **Graphics & Visualization:** Custom procedural SVG spacecraft schematics, interactive radar coordinate engine, and HTML5 Canvas starfield.
 * **Audio & Interactivity:** Native Web Speech API (`speechSynthesis`) for first-person machine voiceovers paired with typewriter telemetry rendering.
 
 ---
 
-## 🚀 Quick Start & Local Setup
+## 🚀 Quick Start:
 
 Because **AFTERLIFE OF SPACE** is built as a self-contained frontend application with zero external build dependencies, running it takes seconds:
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/afterlife-of-space.git
-   cd afterlife-of-space
-   ```
-2. **Launch in your browser:**
-   * Simply double-click `index.html` to open it in any modern browser, **or**
-   * Serve it locally using VS Code Live Server or Python:
-     ```bash
-     python3 -m http.server 8080
-     ```
-   * Visit `http://localhost:8080` in your browser.
+
+   * Visit `https://afterlife-of-space-the-mission-ended-the.onrender.com/#explorer` in your browser.
 
 ---
 
