@@ -12,11 +12,17 @@
 Instead of presenting raw spreadsheets or dry dashboards, this platform transforms open-source NASA planetary data into living, first-person narratives told by the machines themselves—turning school-age learners, educators, and space enthusiasts into **Space Archaeologists**.
 
 ---
-##** 🏛️ Copyright & Intellectual Property **
+## 🏛️ Copyright & Intellectual Property
 
-Custom Code, UI & Narrative Framework: Copyright © 2026 AFTERLIFE OF SPACE Team. All rights reserved under the terms of the MIT License. You hold full copyright over the unique frontend architecture, custom vector illustrations, gamification mechanics, and interactive storytelling flows.
+### Custom Code, UI & Narrative Framework
+Copyright © 2026 **AFTERLIFE OF SPACE Team**. All rights reserved under the terms of the [MIT License](LICENSE).
 
-NASA Open Data & Media Attribution: Official NASA mission imagery, PDS datasets, and orbital coordinates are public-domain educational resources utilized in accordance with NASA open data guidelines and properly credited below.
+The creators retain full copyright ownership of the project's original frontend architecture, custom vector illustrations, gamification systems, interactive storytelling framework, design assets, and creative narrative elements developed specifically for **AFTERLIFE OF SPACE**.
+
+### NASA Open Data & Media Attribution
+Official NASA mission imagery, Planetary Data System (PDS) datasets, orbital coordinates, and publicly released educational resources are used in accordance with NASA's Open Data and Media Usage Guidelines.
+
+All NASA-sourced materials remain the property of their respective public-domain sources and are credited appropriately throughout this project. Their inclusion is intended solelyl, scientific, and non-commercial awareness purposes.
 
 ## 🎯 The Problem & Our Solution
 “Abandoned but not forgotten: Storytelling about NASA’s discarded equipments on the Moon and the Mars.”
